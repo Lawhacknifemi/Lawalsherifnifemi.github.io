@@ -1,36 +1,35 @@
-## Welcome to GitHub Pages
+## LAWAL SHERIF NIFEMI A.
 
-You can use the [editor on GitHub](https://github.com/Lawhacknifemi/Lawalsherifnifemi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You are welcome!!🤓
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##About
+**Sherif**is a self thuaght sofware engineer will to grow is skills amd contribute to the  development of tech industries .Based on his special interest in making technology _especially the sofware engineering feild_ -He has been into several open sources community to contribute is little qouta to open sources technologies.
+He also help both Big and Small Medium Scale Enterprise Scale by providing varieties of technical support And service.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### SkillS
 
-# Header 1
-## Header 2
-### Header 3
+- HTML
+- CSS
+-JavaScript
+-python
+-Git
+-IBM Watson cloud 
 
-- Bulleted
-- List
+### Intrests 
+-Airtificial intelligence (Cognitive computing)
+-FrontEnd Web Technologies
+-Internet of things(IoT)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://twitter.com/Lawaknifemi)  ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lawhacknifemi/Lawalsherifnifemi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
